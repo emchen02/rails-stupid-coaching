@@ -1,0 +1,29 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.noob {
+  border-left-style: groove;
+  padding: 5px 5px 10px 15px;
+  border-left-width: thick;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.coach {
+  background: lightyellow;
+  border-left-style: groove;
+  border-left-width: thick;
+  padding: 5px 5px 10px 15px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+a {
+  color:blue
+}
